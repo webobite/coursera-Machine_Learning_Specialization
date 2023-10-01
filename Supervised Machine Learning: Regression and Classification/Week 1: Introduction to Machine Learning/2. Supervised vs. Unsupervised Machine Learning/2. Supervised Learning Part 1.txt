@@ -1,0 +1,11 @@
+Supervised Learning
+    X -->       y
+    (input)    (output label)
+
+=> Refers to algorithms that learn x to y or input to output mapping
+    key characterstics :
+        - give your Learning algorithms examples to learn
+        Refer to : 2._01_examples_of_supervised_machine_learning_alogrithm_applications_in_real_world.png
+=> Regression : Example of Housing price prediction
+        prediction of Numbers from large amount of Inputs
+        Refer to : 2._02_examples_of_housing_price_prediction_using_regression.png

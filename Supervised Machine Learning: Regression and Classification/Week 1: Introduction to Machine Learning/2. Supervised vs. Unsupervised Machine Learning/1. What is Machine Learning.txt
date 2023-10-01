@@ -1,0 +1,9 @@
+Machine Learning Algorithms
+ - Supervised Learning
+        - rapid advancement
+        - used most in the real world application
+        - course 1, 2
+ - Unsupervised Learning
+ - Recommender systems
+        - Course 3
+ - Reinforcement Learning
