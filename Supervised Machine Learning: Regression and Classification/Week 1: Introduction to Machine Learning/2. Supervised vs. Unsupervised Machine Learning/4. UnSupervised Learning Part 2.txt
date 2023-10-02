@@ -1,0 +1,21 @@
+Unsupervised Learning
+    Difference between Supervised and Unsupervised Learning
+        Refer to : 4._01_difference_between_supervised_and_unsupervised_learning.png
+=> Here, We are not trying to supervise the algorithms
+One of the use case for it is in 
+    Clustering algorithms
+        => Examples:
+            1. Google News looks for hundreds of thousands of news articles on Internet and group related stories
+            2. Usage in DNA type of people indentification using Clustering techniques.
+                Refer to : 4._02_usage_of_clustring_in_dna_analysis.png
+            3. Market segmentations to found a distinct groups Indivisual for company to target.
+                Refer to : 4._03_usage_of_clustring_in_market_segmentation.png
+Unsupervised Learning
+    => Data only comes with input x, but not outputs labels y.
+        algorithms has to find structures in the data.
+
+        Clustering : Group similar data points together
+
+        Anomaly detection : Find unusual data points
+
+        Dimensionality Reduction : Compress data using fewer numbers.
