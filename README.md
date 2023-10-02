@@ -1,5 +1,6 @@
 # Coursera/Machine Learning 
 ```bash
+.
 ├── README.md
 └── Supervised Machine Learning: Regression and Classification
     ├── Week 1: Introduction to Machine Learning
@@ -26,7 +27,29 @@
     │   ├── 4. Regression Model
     │   ├── 5. Practise Quiz: Regression Model
     │   ├── 6. Train Model with Gradient Descent
-    │   └── 7. Practise Quiz: Train Model with Gradient Descent
+    │   ├── 7. Practise Quiz: Train Model with Gradient Descent
+    │   └── Optional Labs
+    │       ├── C1_W1_Lab01_Python_Jupyter_Soln.ipynb
+    │       ├── C1_W1_Lab03_Model_Representation_Soln.ipynb
+    │       ├── C1_W1_Lab04_Cost_function_Soln.ipynb
+    │       ├── C1_W1_Lab05_Gradient_Descent_Soln.ipynb
+    │       ├── data.txt
+    │       ├── deeplearning.mplstyle
+    │       ├── images
+    │       │   ├── C1W1L1_Markdown.PNG
+    │       │   ├── C1W1L1_Run.PNG
+    │       │   ├── C1W1L1_Tour.PNG
+    │       │   ├── C1_W1_L3_S1_Lecture_b.png
+    │       │   ├── C1_W1_L3_S1_model.png
+    │       │   ├── C1_W1_L3_S1_trainingdata.png
+    │       │   ├── C1_W1_L3_S2_Lecture_b.png
+    │       │   ├── C1_W1_L4_S1_Lecture_GD.png
+    │       │   ├── C1_W1_Lab02_GoalOfRegression.PNG
+    │       │   ├── C1_W1_Lab03_alpha_too_big.PNG
+    │       │   ├── C1_W1_Lab03_lecture_learningrate.PNG
+    │       │   └── C1_W1_Lab03_lecture_slopes.PNG
+    │       ├── lab_utils_common.py
+    │       └── lab_utils_uni.py
     ├── Week 2: Regression with multiple input variables
     └── Week 3: Classification
 ```
